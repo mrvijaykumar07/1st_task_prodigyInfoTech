@@ -18,4 +18,3 @@ menuItems.forEach((item) => {
     item.classList.remove('hovered');
   });
 });
-s
